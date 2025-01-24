@@ -14,7 +14,7 @@ import tornado.options
 from configs.config import configs
 from room import rooms
 import websocket
-import keyboard
+# import keyboard
 
 # Ensure necessary directories exist
 if not os.path.exists('logs'):
@@ -128,16 +128,16 @@ app = tornado.web.Application(
 if __name__ == "__main__":
     tornado.options.parse_command_line()
     http_server = tornado.httpserver.HTTPServer(app)
-    http_server.listen(8888, address="0.0.0.0")
+    http_server.listen(int(os.environ.get("PORT", 8888)), address="0.0.0.0")
 
     # print(f"Server started on port {configs.port}")
-    print("Press 'q' to exit.")
+    # print("Press 'q' to exit.")
 
-    def check_exit():
-        if keyboard.is_pressed('q'):
-            print("'q' pressed. Exiting...")
-            tornado.ioloop.IOLoop.current().stop()
-            sys.exit(0)
+    # def check_exit():
+    #     if keyboard.is_pressed('q'):
+    #         print("'q' pressed. Exiting...")
+    #         tornado.ioloop.IOLoop.current().stop()
+    #         sys.exit(0)
 
     tornado.ioloop.PeriodicCallback(check_exit, 100).start()
     tornado.ioloop.IOLoop.current().start()
