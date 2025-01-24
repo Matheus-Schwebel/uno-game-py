@@ -8,7 +8,7 @@ Usage:
 from config import configs
 '''
 
-__author__ = 'Anthony Fu'
+__author__ = 'Matheus Henrique Schwebel'
 
 import sys
 sys.path.append("configs")
