@@ -1,0 +1,171 @@
+{% extends base.html %}
+
+{% block title %}{{room.display_name}}{% end %}
+
+{% block content %}
+<div class="mobile frame">
+
+<!--Loading Overlay-->
+<div class="float overlay" id="loading_overlay">
+  <div class="ui active dimmer">
+    <div class="ui large text loader">
+    <span id="loading_overlay_text">Connecting</span>
+    <br><br>
+    <div class="ui tiny inverted button"
+         name="loading_overlay_button"
+         onclick="location.reload()">
+      Refresh
+    </div>
+    <br><br>
+    <a name="loading_overlay_button" href="/">
+      <i class="icon right angle"></i> Back to lobby
+    </a>
+    </div>
+  </div>
+</div>
+
+<!--Hints Overlay-->
+<div class="float overlay transition hidden" id="gameover_overlay"
+     style="z-index:1000;background:rgba(0,0,0,0.75)!important;overflow:auto;padding-bottom:3em;">
+  <div style="margin-top:10em" name="inner">
+    <div class="gameover title">Gameover!</div>
+    <div class="gameover sub title">Winner: <span name="winner"></span></div>
+    <table style="display:inline;" class="ui inverted unstackable very basic collapsing table">
+      <thead>
+        <tr><th>Player</th><th class="right aligned">Cards</th><th class="right aligned">Score</th><th class="right aligned">Total</th></tr>
+      </thead>
+      <tbody id="gameover_scoreboard_list">
+      </tbody>
+    </table>
+    <br>
+    <div class="ui inverted button" onclick="$('#gameover_overlay').transition('fade out')">Close</div>
+  </div>
+</div>
+
+<!--Color Select Overlay-->
+<div class="float overlay transition hidden" id="color_select_overlay" style="z-index:500;background:rgba(0,0,0,0.8) !important;" onclick="color_select_cancel()">
+  <div class="circle color button" style="background-color:#ff5555;right:6em;bottom:6em;" onclick="color_select_play(1)"></div>
+  <div class="circle color button" style="background-color:#ffaa00;right:6em;bottom:2em;" onclick="color_select_play(2)"></div>
+  <div class="circle color button" style="background-color:#55afff;right:2em;bottom:6em;" onclick="color_select_play(3)"></div>
+  <div class="circle color button" style="background-color:#55aa55;right:2em;bottom:2em;" onclick="color_select_play(4)"></div>
+</div>
+
+<!--Function Panel-->
+<div class="float function panel" style="z-index:200">
+  <div class="ui inverted secondary pointing icon function menu" id="head_menu">
+    <a class="fitted item" name="tab" tab="chat" id="tab_chat" onclick="refresh_message_notifier(0);"><!--chat_windows.clear_notify();-->
+      <i class="large icon comments"></i>
+      <div id="message_notifier" class="floating small ui red label"
+           style="margin-top:1.5em !important;margin-left:-2.5em !important;"></div>
+    </a>
+    <a class="fitted item" name="tab" tab="options" id="tab_options">
+      <i class="large icon setting"></i>
+    </a>
+    <div class="ui basic segment" id="notify_panel"></div>
+    <div class="right action menu">
+      <div class="item countdown display" id="countdown_timer"></div>
+    </div>
+  </div>
+
+  <div class="ui inverted tab segment" name="tab_page" tab="chat" style="padding:0;">
+    <iframe id="chat_iframe"></iframe>
+  </div>
+
+  <div class="ui inverted tab segment" name="tab_page" tab="options">
+    <h4 class="ui compact header">
+      Options
+      <div class="sub header" style="margin-top:0.4em">
+        <div id="check_sound" class="ui small compact inverted disabled toggleable button"
+             data-inactive="No Sound" data-active="Sound" data-cookies-key="sound"></div>
+        <div id="check_auto" class="ui small compact inverted toggleable button">Autoplay</div>
+      </div>
+    </h4>
+
+    <h4 class="ui compact header">
+      Navigation
+      <div class="sub header" style="margin-top:0.4em">
+        <div class="ui inverted breadcrumb">
+          <a class="section" href="/">Lobby</a>
+          <div class="divider"> / </div>
+          <a class="section" href="/room/{{room.name}}">{{room.display_name}}</a>
+          <div class="divider"> / </div>
+          <div class="active section">{{player.display_name}}</div>
+          <i class="right angle icon divider"></i>
+          <a class="section" href="/room/{{room.name}}/options">Options</a>
+        </div>
+      </div>
+    </h4>
+
+    {% include 'includes/info.table.part.html' %}
+
+    <div class="ui accordion" id="scoreboard_accordion">
+      <div class="title">
+        <h4 class="ui inverted header">
+          <i class="icon dropdown"></i>
+          Scoreboard
+        </h4>
+      </div>
+      <div class="content">
+        <p>Games Played:<span id="games_played">{{room.games_played}}</span></p>
+        <table class="ui inverted unstackable very basic table">
+          <thead>
+            <tr><th>Player</th><th class="right aligned">Last</th><th class="right aligned">Wins</th><th class="right aligned">Total</th></tr>
+          </thead>
+          <tbody id="scoreboard_players_list">
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="float center waiting panel">
+  <div class="uno cards ground">
+    <img class="uno card" src="/static/cards/SD4.png" repr="SD4">
+    <img class="uno card" src="/static/cards/B4.png"  repr="B4">
+    <img class="uno card" src="/static/cards/G3.png"  repr="G3">
+    <img class="uno card" src="/static/cards/Y2.png"  repr="Y2">
+    <img class="uno card" src="/static/cards/R1.png"  repr="R1">
+  </div>
+  <div class="text">
+    <p>Waiting for game to start...<p>
+    <div class="ui inverted small compact button" name="button_start"
+         onclick="send_message('start')" style="margin-top:-1em;">
+         Start
+    </div>
+  </div>
+</div>
+
+<div class="float action-menu transition hidden">
+  <div class="ui center aligned basic transparent segment" style="padding:0.3em">
+    <div class="ui inverted basic button" id="action-color"><div class="action-dot"></div><span class="action-dot-text"></span></div>
+    <div class="ui inverted basic button" id="button_drawone" onclick="send_message('drawone')">Draw</div>
+    <div class="ui red inverted basic button" id="button_punish" onclick="send_message('accept_punish')">Punish</div>
+    <div class="ui inverted basic button" id="button_pass" onclick="send_message('pass')">Pass</div>
+    <div class="ui inverted basic button" id="button_auto" onclick="send_message('auto')">Auto</div>
+  </div>
+</div>
+
+<div class="float center">
+  <div class="turns list" id="candidates_list"></div>
+  <div style="width:12em;margin:0 auto">
+    <div class="uno cards ground" id="cards_ground"></div>
+  </div>
+</div>
+
+<div class="float hand">
+  <div class="horzontial scroll" id="horzontial_scroller" style="margin-top:-1em">
+    <div class="uno cards stack hand" id="hand_pool"></div>
+  </div>
+</div>
+
+</div>
+{% end %}
+
+{% block script %}
+<script>
+var chat_src = '{{chat_root}}/__uno_{{room.name}}?hide_date&user='+encodeURIComponent('{{player.display_name}}');
+var room_state = {{room.state}};
+</script>
+<script src="{{ static_url("js/table.js") }}"></script>
+{% end %}

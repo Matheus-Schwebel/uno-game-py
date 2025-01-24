@@ -1,0 +1,2074 @@
+[I 250114 15:51:17 web:2348] 200 GET / (127.0.0.1) 13.91ms
+[I 250114 15:51:17 web:2348] 200 GET /static/js/utils.js?v=d45a2b04b0c89b20f990991c8cab0470a2cb55911beced194d2a92e0af465abbe2ae04d7381b5d76e707ed06bfb4348b9ac1c70295bb885a0d9dc3160fe7c835 (127.0.0.1) 46.75ms
+[I 250114 15:51:17 web:2348] 200 GET /static/style.css?v=5c245eb0fa8d261326f7a479aa84e1f62cc35dba7a5612c7be7dead06056fbf10495d17918ead02902caa346185bbf911266b3e6c032f0499b04cfe12e0dc1b8 (127.0.0.1) 2.06ms
+[I 250114 15:51:18 web:2348] 200 GET /static/cards/B4.png (127.0.0.1) 18.88ms
+[I 250114 15:51:18 web:2348] 200 GET /static/cards/G3.png (127.0.0.1) 31.74ms
+[I 250114 15:51:18 web:2348] 200 GET /static/js/toggleable.button.js?v=93450be8c980950cc46ec021a0fad8ad3e4b0faa9f7432edee046d269f77c40ca6547b7f732bc26c340aeaec97a849555bc873f5061ec53081e5da891a1adbcc (127.0.0.1) 0.76ms
+[I 250114 15:51:18 web:2348] 200 GET /static/cards/Y2.png (127.0.0.1) 9.50ms
+[I 250114 15:51:18 web:2348] 200 GET /static/cards/R1.png (127.0.0.1) 8.34ms
+[I 250114 15:51:18 web:2348] 200 GET /static/cards/SD4.png (127.0.0.1) 10.35ms
+[I 250114 15:51:18 web:2348] 200 GET /static/favicon.ico (127.0.0.1) 11.77ms
+[I 250114 15:51:28 web:2348] 200 GET /create (127.0.0.1) 5.28ms
+[I 250114 15:51:52 web:2348] 302 GET /create/testemaior (127.0.0.1) 0.00ms
+[I 250114 15:51:52 web:2348] 200 GET /room/testemaior (127.0.0.1) 7.34ms
+[I 250114 15:51:56 web:2348] 200 GET /room/testemaior/player/matheus (127.0.0.1) 16.68ms
+[I 250114 15:51:57 web:2348] 304 GET /static/cards/SD4.png (127.0.0.1) 0.00ms
+[I 250114 15:51:57 web:2348] 304 GET /static/cards/B4.png (127.0.0.1) 0.00ms
+[I 250114 15:51:57 web:2348] 304 GET /static/cards/G3.png (127.0.0.1) 2.25ms
+[I 250114 15:51:57 web:2348] 200 GET /static/js/table.js?v=57bc25923fedb538de931eff6f67811b0e52e1e11bef8cf582d4f8c11bc02e37451b239e59716b20b3eeefdc791f1ab766592db5b3c1f3f382ffe71c6fd1ee2e (127.0.0.1) 1.00ms
+[I 250114 15:51:57 web:2348] 304 GET /static/cards/Y2.png (127.0.0.1) 2.07ms
+[I 250114 15:51:57 web:2348] 304 GET /static/cards/R1.png (127.0.0.1) 2.58ms
+[I 250114 15:51:57 web:2348] 101 GET /room/testemaior/player/matheus/ws (127.0.0.1) 0.00ms
+[I 250114 15:51:57 web:2348] 200 GET /__uno_testemaior?hide_date&user=Matheus (127.0.0.1) 3.41ms
+[I 250114 15:52:28 web:2348] 200 GET / (127.0.0.1) 6.49ms
+[I 250114 15:52:29 web:2348] 200 GET /static/js/utils.js?v=d45a2b04b0c89b20f990991c8cab0470a2cb55911beced194d2a92e0af465abbe2ae04d7381b5d76e707ed06bfb4348b9ac1c70295bb885a0d9dc3160fe7c835 (127.0.0.1) 28.70ms
+[I 250114 15:52:29 web:2348] 200 GET /static/js/toggleable.button.js?v=93450be8c980950cc46ec021a0fad8ad3e4b0faa9f7432edee046d269f77c40ca6547b7f732bc26c340aeaec97a849555bc873f5061ec53081e5da891a1adbcc (127.0.0.1) 0.00ms
+[I 250114 15:52:29 web:2348] 200 GET /static/style.css?v=5c245eb0fa8d261326f7a479aa84e1f62cc35dba7a5612c7be7dead06056fbf10495d17918ead02902caa346185bbf911266b3e6c032f0499b04cfe12e0dc1b8 (127.0.0.1) 0.00ms
+[I 250114 15:52:29 web:2348] 200 GET /static/cards/B4.png (127.0.0.1) 0.00ms
+[I 250114 15:52:29 web:2348] 200 GET /static/cards/G3.png (127.0.0.1) 0.00ms
+[I 250114 15:52:29 web:2348] 200 GET /static/cards/Y2.png (127.0.0.1) 0.00ms
+[I 250114 15:52:29 web:2348] 200 GET /static/cards/R1.png (127.0.0.1) 0.00ms
+[I 250114 15:52:29 web:2348] 200 GET /static/cards/SD4.png (127.0.0.1) 0.00ms
+[I 250114 15:52:29 web:2348] 200 GET /static/favicon.ico (127.0.0.1) 0.00ms
+[I 250114 15:52:36 web:2348] 200 GET /create (127.0.0.1) 4.37ms
+[I 250114 15:52:39 web:2348] 302 GET /create/teste (127.0.0.1) 0.00ms
+[I 250114 15:52:39 web:2348] 200 GET /room/teste (127.0.0.1) 18.72ms
+[I 250114 15:53:04 web:2348] 200 GET /room/teste/player/matheus (127.0.0.1) 11.29ms
+[I 250114 15:53:04 web:2348] 304 GET /static/cards/SD4.png (127.0.0.1) 2.40ms
+[I 250114 15:53:04 web:2348] 304 GET /static/cards/B4.png (127.0.0.1) 1.18ms
+[I 250114 15:53:04 web:2348] 200 GET /static/js/table.js?v=57bc25923fedb538de931eff6f67811b0e52e1e11bef8cf582d4f8c11bc02e37451b239e59716b20b3eeefdc791f1ab766592db5b3c1f3f382ffe71c6fd1ee2e (127.0.0.1) 1.80ms
+[I 250114 15:53:04 web:2348] 304 GET /static/cards/Y2.png (127.0.0.1) 3.01ms
+[I 250114 15:53:04 web:2348] 304 GET /static/cards/R1.png (127.0.0.1) 3.14ms
+[I 250114 15:53:04 web:2348] 304 GET /static/cards/G3.png (127.0.0.1) 0.00ms
+[I 250114 15:53:04 web:2348] 200 GET /__uno_teste?hide_date&user=Matheus (127.0.0.1) 0.00ms
+[I 250114 15:53:04 web:2348] 101 GET /room/teste/player/matheus/ws (127.0.0.1) 1.14ms
+[I 250114 15:53:13 web:2348] 200 GET / (127.0.0.1) 4.30ms
+[I 250114 15:53:21 web:2348] 200 GET /room/teste (127.0.0.1) 3.69ms
+[I 250114 15:53:27 web:2348] 200 GET /room/teste/player/samuel (127.0.0.1) 5.06ms
+[I 250114 15:53:27 web:2348] 101 GET /room/teste/player/samuel/ws (127.0.0.1) 1.08ms
+[I 250114 15:53:27 web:2348] 200 GET /__uno_teste?hide_date&user=Samuel (127.0.0.1) 2.06ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/B5.png (127.0.0.1) 19.22ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/BD2.png (127.0.0.1) 12.41ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/B6.png (127.0.0.1) 14.38ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/B9.png (127.0.0.1) 17.02ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/R2.png (127.0.0.1) 16.00ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/R3.png (127.0.0.1) 37.82ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/Y3.png (127.0.0.1) 46.00ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/R0.png (127.0.0.1) 4.10ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/G7.png (127.0.0.1) 18.04ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/G9.png (127.0.0.1) 23.35ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/Y5.png (127.0.0.1) 30.12ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/GS.png (127.0.0.1) 44.83ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/R5.png (127.0.0.1) 2.03ms
+[I 250114 15:53:29 web:2348] 200 GET /static/cards/R9.png (127.0.0.1) 18.24ms
+[I 250114 15:53:53 web:2348] 200 GET /static/cards/B1.png (127.0.0.1) 10.01ms
+[I 250114 15:54:06 web:2348] 200 GET /static/cards/BS.png (127.0.0.1) 11.51ms
+[I 250114 15:54:13 web:2348] 200 GET /static/cards/YR.png (127.0.0.1) 0.00ms
+[I 250114 15:54:23 web:2348] 304 GET /static/cards/B6.png (127.0.0.1) 1.12ms
+[I 250114 15:54:28 web:2348] 200 GET /static/cards/G6.png (127.0.0.1) 0.00ms
+[I 250114 15:54:35 web:2348] 304 GET /static/cards/B5.png (127.0.0.1) 1.74ms
+[I 250114 15:54:52 web:2348] 200 GET /static/cards/RS.png (127.0.0.1) 13.01ms
+[I 250114 15:54:52 web:2348] 200 GET /static/cards/Y1.png (127.0.0.1) 20.01ms
+[I 250114 15:54:52 web:2348] 200 GET /static/cards/B2.png (127.0.0.1) 10.37ms
+[I 250114 15:54:59 web:2348] 304 GET /static/cards/GS.png (127.0.0.1) 0.00ms
+[I 250114 15:55:00 web:2348] 304 GET /static/cards/G9.png (127.0.0.1) 0.00ms
+[I 250114 15:55:08 web:2348] 200 GET /static/cards/Y7.png (127.0.0.1) 16.94ms
+[I 250114 15:55:29 web:2348] 200 GET /static/cards/G2.png (127.0.0.1) 17.28ms
+[I 250114 15:55:43 web:2348] 200 GET /static/cards/B8.png (127.0.0.1) 17.48ms
+[I 250114 15:55:49 web:2348] 304 GET /static/cards/G7.png (127.0.0.1) 0.00ms
+[I 250114 15:56:03 web:2348] 200 GET /static/cards/G8.png (127.0.0.1) 17.48ms
+[I 250114 15:56:03 web:2348] 200 GET /static/cards/GR.png (127.0.0.1) 0.00ms
+[I 250114 15:56:03 web:2348] 200 GET /static/cards/SW.png (127.0.0.1) 23.58ms
+[I 250114 15:56:03 web:2348] 200 GET /static/cards/Y4.png (127.0.0.1) 30.36ms
+[I 250114 15:56:13 web:2348] 304 GET /static/cards/B1.png (127.0.0.1) 0.00ms
+[I 250114 15:56:26 web:2348] 200 GET /static/cards/RR.png (127.0.0.1) 12.27ms
+[I 250114 15:56:31 web:2348] 304 GET /static/cards/YR.png (127.0.0.1) 1.01ms
+[I 250114 15:56:33 web:2348] 304 GET /static/cards/Y7.png (127.0.0.1) 0.00ms
+[I 250114 15:56:36 web:2348] 304 GET /static/cards/Y5.png (127.0.0.1) 0.00ms
+[I 250114 15:56:41 web:2348] 304 GET /static/cards/Y3.png (127.0.0.1) 0.00ms
+[I 250114 15:56:44 web:2348] 200 GET /static/cards/R4.png (127.0.0.1) 16.54ms
+[I 250114 15:56:48 web:2348] 304 GET /static/cards/Y1.png (127.0.0.1) 0.00ms
+[I 250114 15:57:52 web:2348] 200 GET /room/teste/player/samuel (127.0.0.1) 4.52ms
+[I 250114 15:57:52 web:2348] 304 GET /static/cards/SD4.png (127.0.0.1) 1.00ms
+[I 250114 15:57:52 web:2348] 304 GET /static/cards/B4.png (127.0.0.1) 0.46ms
+[I 250114 15:57:52 web:2348] 304 GET /static/cards/R1.png (127.0.0.1) 1.30ms
+[I 250114 15:57:52 web:2348] 304 GET /static/cards/Y2.png (127.0.0.1) 1.39ms
+[I 250114 15:57:52 web:2348] 304 GET /static/cards/G3.png (127.0.0.1) 2.41ms
+[I 250114 15:57:52 web:2348] 101 GET /room/teste/player/samuel/ws (127.0.0.1) 0.00ms
+[I 250114 15:57:52 web:2348] 304 GET /__uno_teste?hide_date&user=Samuel (127.0.0.1) 3.27ms
+[E 250114 15:57:52 web:1875] Uncaught exception GET /room/teste/player/samuel/ws (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1', method='GET', uri='/room/teste/player/samuel/ws', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\websocket.py", line 631, in _run_callback
+        result = callback(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\websocket.py", line 38, in on_message
+        self.handle_message(data)
+      File "C:\Users\miche\Programacao\python\uno-game-master\websocket.py", line 73, in handle_message
+        self.room.new_pipe().recover(self.player).messageto(self.player)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\room.py", line 512, in recover
+        return self.game_infos().game_ready().gameplay(player)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\room.py", line 509, in gameplay
+        return self.hand(player).ground().candidates().turns().myturn(player)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\room.py", line 439, in candidates
+        for x in self.room.game.candidates])
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+    AttributeError: 'NoneType' object has no attribute 'candidates'
+[I 250114 15:57:52 web:2348] 304 GET /static/favicon.ico (127.0.0.1) 0.00ms
+[I 250114 15:57:55 web:2348] 200 GET /room/teste/player/samuel (127.0.0.1) 15.94ms
+[I 250114 15:57:56 web:2348] 304 GET /__uno_teste?hide_date&user=Samuel (127.0.0.1) 3.42ms
+[I 250114 15:57:56 web:2348] 101 GET /room/teste/player/samuel/ws (127.0.0.1) 1.00ms
+[I 250114 15:58:01 web:2348] 200 GET /room/teste/player/samuel (127.0.0.1) 8.47ms
+[I 250114 15:58:01 web:2348] 304 GET /__uno_teste?hide_date&user=Samuel (127.0.0.1) 0.00ms
+[I 250114 15:58:01 web:2348] 101 GET /room/teste/player/samuel/ws (127.0.0.1) 7.33ms
+[I 250114 15:58:05 web:2348] 200 GET /room/teste/player/matheus (127.0.0.1) 5.48ms
+[I 250114 15:58:05 web:2348] 304 GET /__uno_teste?hide_date&user=Matheus (127.0.0.1) 3.59ms
+[I 250114 15:58:05 web:2348] 101 GET /room/teste/player/matheus/ws (127.0.0.1) 1.50ms
+[I 250114 15:58:07 web:2348] 200 GET /static/cards/B7.png (127.0.0.1) 15.64ms
+[I 250114 15:58:07 web:2348] 304 GET /static/cards/Y3.png (127.0.0.1) 2.03ms
+[I 250114 15:58:07 web:2348] 304 GET /static/cards/B9.png (127.0.0.1) 2.00ms
+[I 250114 15:58:07 web:2348] 304 GET /static/cards/G8.png (127.0.0.1) 3.00ms
+[I 250114 15:58:07 web:2348] 304 GET /static/cards/GR.png (127.0.0.1) 4.38ms
+[I 250114 15:58:07 web:2348] 304 GET /static/cards/B5.png (127.0.0.1) 4.89ms
+[I 250114 15:58:07 web:2348] 200 GET /static/cards/G0.png (127.0.0.1) 10.77ms
+[I 250114 15:58:07 web:2348] 304 GET /static/cards/RR.png (127.0.0.1) 11.78ms
+[I 250114 15:58:07 web:2348] 304 GET /static/cards/YR.png (127.0.0.1) 13.80ms
+[I 250114 15:58:07 web:2348] 304 GET /static/cards/R3.png (127.0.0.1) 14.48ms
+[I 250114 15:58:07 web:2348] 304 GET /static/cards/R9.png (127.0.0.1) 14.48ms
+[I 250114 15:58:07 web:2348] 200 GET /static/cards/Y6.png (127.0.0.1) 16.49ms
+[I 250114 15:58:07 web:2348] 200 GET /static/cards/YS.png (127.0.0.1) 2.31ms
+[I 250114 15:58:12 web:2348] 304 GET /static/cards/G7.png (127.0.0.1) 0.00ms
+[I 250114 15:58:47 web:2348] 304 GET /static/cards/GS.png (127.0.0.1) 0.00ms
+[I 250114 15:58:47 web:2348] 304 GET /static/cards/B1.png (127.0.0.1) 0.00ms
+[I 250114 15:58:47 web:2348] 304 GET /static/cards/G9.png (127.0.0.1) 0.00ms
+[I 250114 16:11:18 autoreload:197] C:\Users\miche\Programacao\python\uno-game-master\uno_server.py modified; restarting server
+[E 250114 16:11:18 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:19 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:19 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:19 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:19 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:19 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:19 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:19 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:19 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:19 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:19 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:20 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:20 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:20 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:20 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:20 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:20 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:20 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:20 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:20 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:20 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:21 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:21 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:21 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:21 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:21 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:21 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:21 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:21 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:21 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:21 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:22 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:22 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:22 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:22 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:22 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:22 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:22 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:22 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:22 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:22 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:23 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:23 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:23 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:23 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:23 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:23 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:23 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:23 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:23 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:23 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:24 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:24 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:24 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:24 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:24 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:24 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:24 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:24 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:24 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:24 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:25 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:25 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:25 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:25 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:25 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:25 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:25 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:25 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:25 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:25 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:26 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:26 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:26 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:26 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:26 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:26 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:26 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:26 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:26 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:26 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:27 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:27 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:27 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:27 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:27 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:27 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:27 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:27 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:27 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:27 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:28 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:28 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:28 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:28 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:28 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:28 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:28 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:28 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:28 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:28 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:29 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:29 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:29 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:29 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:29 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:29 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:29 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:29 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:29 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:29 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:30 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:30 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:30 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:30 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:30 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:30 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:30 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:30 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:30 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:30 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:31 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:31 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:31 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:31 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:31 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:31 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:31 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:31 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:31 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:31 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:32 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:32 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:32 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:32 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:32 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:32 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:32 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:32 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:32 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:32 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:33 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:33 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:33 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:33 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:33 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:33 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:33 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:33 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:33 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:33 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:34 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:34 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:34 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:34 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:34 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:34 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:34 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:34 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:34 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:34 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:35 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:35 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:35 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:35 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:35 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:35 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:35 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:35 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:35 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:35 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:36 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:36 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:36 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:36 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:36 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:36 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:36 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:36 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:36 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:36 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:37 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:37 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:37 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:37 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:37 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:37 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:37 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:37 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:37 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:37 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:38 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:38 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:38 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:38 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:38 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:38 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:38 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:38 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:38 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:38 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:39 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:39 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:39 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:39 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:39 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:39 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:39 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:39 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:39 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:39 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:40 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:40 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[E 250114 16:11:40 ioloop:941] Exception in callback <function check_exit at 0x000001F2440C2CA0>
+    Traceback (most recent call last):
+      File "C:\Users\miche\Programacao\python\Django\Lib\site-packages\tornado\ioloop.py", line 937, in _run
+        val = self.callback()
+              ^^^^^^^^^^^^^^^
+      File "C:\Users\miche\Programacao\python\uno-game-master\uno_server.py", line 136, in check_exit
+        if keyboard.is_pressed('q'):
+           ^^^^^^^^
+    NameError: name 'keyboard' is not defined
+[I 250114 16:11:40 autoreload:197] C:\Users\miche\Programacao\python\uno-game-master\uno_server.py modified; restarting server
